@@ -1,5 +1,7 @@
-Hola mi nombre es trinidad Luna Morales 
+Hola mi nombre es Trinidad Luna Morales 
 
-soy estudiante de sistemas computacionales  
+soy egresado de sistemas computacionales  
 
 este es un ejemplo
+
+de uso de git
