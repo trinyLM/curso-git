@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 body {
   font-family: 'Courier New', Courier, monospace;
+=======
+.mystyle{
+  font-family: Arial, Helvetica, sans-serif;
+>>>>>>> button
   text-align: center;
   color: blueviolet;
 }
